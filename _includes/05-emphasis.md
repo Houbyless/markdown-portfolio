@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### greenish 🎄, sweet 🍬 & curious 🔬 
+- forgot a lot from __HTML__
+- _Python_ in progress soon
+- __SQL__ is another reason to cry 😿  
