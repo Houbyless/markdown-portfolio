@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### My favourites::trollface:
+* wine
+  * red🍷
+  * sparkling🍾
+* literal soup🍽️
+* luminiscence❤️‍🔥 🫀
+* ice cream 🍨
+* GitHub 😅
